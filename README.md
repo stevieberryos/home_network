@@ -24,3 +24,5 @@ Future plans:
 - Buy larger UPS with auto shutdown capabilities
 
 ## Line Diagram of Network 
+
+<img width="582" height="278" alt="image" src="https://github.com/user-attachments/assets/f63e36b7-f0e5-4b1d-a549-154203ffc220" />
