@@ -29,7 +29,7 @@ Future plans:
 
 ## Services
 
-- Proxmox does both jobs: it’s a hypervisor for VMs (KVM) and a container host for LXC.
-- Samba → LXC container: a simple Linux service, so lightweight is ideal.
-- Kali → VM: it does low-level network work and benefits from its own kernel and full isolation.
-- Greenbone → Docker containers inside a VM. The Docker containers share the Debian VM’s kernel, not Proxmox’s. That combination gets the convenience of Docker plus the strong isolation of a VM wrapped around it.
+- Proxmox: Hypervisor
+- Samba → LXC container: File storage
+- Kali → VM
+- Greenbone → Docker containers inside a VM: OpenVAS
