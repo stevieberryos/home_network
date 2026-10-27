@@ -2,7 +2,7 @@
 
 The purpose of this repository is to highlight the growth in my home network's capability and sophistication.
 
-What prompted this development was an old HP Omen gaming desktop that was just standing there, menacingly waiting to be utilized for something other than a paperweight.
+What prompted this development was an old HP Omen gaming desktop that was just standing there, menacingly waiting to be used for something other than a paperweight.
 
 ## Physical Setup
 
